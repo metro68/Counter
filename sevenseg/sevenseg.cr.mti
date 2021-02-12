@@ -1,0 +1,8 @@
+H:/Projects/Sevenseg/test_sevenseg.sv {1 {vlog -work work -vopt -sv -stats=none H:/Projects/Sevenseg/test_sevenseg.sv
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module test_sevenseg
+
+Top level modules:
+	test_sevenseg
+
+} {} {}}
